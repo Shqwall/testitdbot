@@ -2,7 +2,7 @@
 const commands = `
 /start - Перезапустить бота
 /help - Помощь
-/course - Курсы
+/menu - Меню
 `
 // Текстовые константы
 const text1 = `
